@@ -1,0 +1,122 @@
+button{
+    background-color: orange;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    font-size: 25px;
+    margin: 1%;
+}
+#navbar{
+    background-color: white;
+    border-radius: 50px;
+    margin-right: 10%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 25px; 
+}
+.background{
+    background-image: url(images/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    height: 800px;
+}
+.navwords{
+    margin-top: 10%;
+    margin-left: 40%;
+    font-size: 30px;
+    color: white;  
+}
+.prices{
+    text-align: center;
+    font-size: 30px;
+}
+.offers{
+    display: flex;
+    height: 400px;
+    justify-content: space-around;
+    gap: 90px;
+    font-size: 20px;
+}
+.dotted{
+    margin-left: 35%;
+    margin-bottom: 400px;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+    gap: ;
+   
+}
+.clients{
+    margin-left: 5%;
+}
+.blog{
+    background-image: url(images/blog.jpeg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-attachment: scroll;
+    height: 800px;
+    margin-left: 5%;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+}
+.name{
+    color: white;
+}
+.question{
+    display: flex;
+    background-color: #ff9412;
+    justify-content: space-around;
+    font-size: 20px;
+    border-radius: 22px;
+}
+.form{
+    background-color: white;
+    width: 400px;
+    padding: 5%;
+    border: solid 1px;
+    margin-bottom: 10%;
+    border: none;
+    font-size: 30px;
+}
+.quiz{
+    color: white;
+    font-size: 30px;
+}
+.adventure{
+    background-image: url(images/backgroundimage.jpeg);  
+    background-size: cover;
+    background-attachment: scroll;
+    height: 500px;
+    border-radius: 22px;
+}
+.icons{
+    display: flex;
+}
+#footer{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    gap: 90px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+}
+.button1{
+    background-color: white;
+    color: black;
+}
+.button2{
+    padding: 20px;
+    color: black;
+    background-color: white;
+    border: 1px solid;
+    font-size: 15px;
+    width: 40%;
+}
